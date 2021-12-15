@@ -1,0 +1,16 @@
+C:\Users\opilane\source\repos\SantaClause\SantaClause\obj\Debug\netcoreapp3.1\SantaClause.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\SantaClause\SantaClause\obj\Debug\netcoreapp3.1\SantaClause.Form1.resources
+C:\Users\opilane\source\repos\SantaClause\SantaClause\obj\Debug\netcoreapp3.1\SantaClause.Properties.Resources.resources
+C:\Users\opilane\source\repos\SantaClause\SantaClause\obj\Debug\netcoreapp3.1\SantaClause.csproj.GenerateResource.cache
+C:\Users\opilane\source\repos\SantaClause\SantaClause\obj\Debug\netcoreapp3.1\SantaClause.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\SantaClause\SantaClause\obj\Debug\netcoreapp3.1\SantaClause.AssemblyInfo.cs
+C:\Users\opilane\source\repos\SantaClause\SantaClause\obj\Debug\netcoreapp3.1\SantaClause.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\SantaClause\SantaClause\bin\Debug\netcoreapp3.1\SantaClause.exe
+C:\Users\opilane\source\repos\SantaClause\SantaClause\bin\Debug\netcoreapp3.1\SantaClause.deps.json
+C:\Users\opilane\source\repos\SantaClause\SantaClause\bin\Debug\netcoreapp3.1\SantaClause.runtimeconfig.json
+C:\Users\opilane\source\repos\SantaClause\SantaClause\bin\Debug\netcoreapp3.1\SantaClause.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\SantaClause\SantaClause\bin\Debug\netcoreapp3.1\SantaClause.dll
+C:\Users\opilane\source\repos\SantaClause\SantaClause\bin\Debug\netcoreapp3.1\SantaClause.pdb
+C:\Users\opilane\source\repos\SantaClause\SantaClause\obj\Debug\netcoreapp3.1\SantaClause.dll
+C:\Users\opilane\source\repos\SantaClause\SantaClause\obj\Debug\netcoreapp3.1\SantaClause.pdb
+C:\Users\opilane\source\repos\SantaClause\SantaClause\obj\Debug\netcoreapp3.1\SantaClause.genruntimeconfig.cache
